@@ -3,7 +3,7 @@ package com.company;
 /**
  * Created by ced on 2016-04-02.
  */
-public class Autobus extends Pojazd{
+public class Autobus extends Pojazd {
 
     private String rodzaj;
 
@@ -11,6 +11,7 @@ public class Autobus extends Pojazd{
         super(kolor, czyDziala);
         this.rodzaj = rodzaj;
     }
+
     public String getSzyny() {
         return rodzaj;
     }
