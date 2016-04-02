@@ -12,7 +12,7 @@ public class Autobus extends Pojazd {
         this.rodzaj = rodzaj;
     }
 
-    public String getSzyny() {
+    public String getRodzaj() {
         return rodzaj;
     }
 

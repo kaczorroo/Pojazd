@@ -12,7 +12,7 @@ public class Tramwaj extends Pojazd {
         this.jaki = jaki;
     }
 
-    public String getSzyny() {
+    public String getJaki() {
         return jaki;
     }
 
